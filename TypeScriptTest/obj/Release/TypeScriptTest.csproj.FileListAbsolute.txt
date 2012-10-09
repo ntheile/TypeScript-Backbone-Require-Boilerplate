@@ -1,0 +1,4 @@
+D:\Websites\TypeScriptTest\TypeScriptTest\bin\TypeScriptTest.dll
+D:\Websites\TypeScriptTest\TypeScriptTest\bin\TypeScriptTest.pdb
+D:\Websites\TypeScriptTest\TypeScriptTest\obj\Release\TypeScriptTest.dll
+D:\Websites\TypeScriptTest\TypeScriptTest\obj\Release\TypeScriptTest.pdb

@@ -1,0 +1,4 @@
+﻿cd D:\Websites\TypeScriptTest\TypeScriptTest\js
+tsc app.ts --module AMD
+cd models
+tsc Todo.ts --module AMD
