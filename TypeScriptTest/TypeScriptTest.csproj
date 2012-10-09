@@ -41,7 +41,6 @@
     <Content Include="js\models\Todo.js">
       <DependentUpon>Todo.ts</DependentUpon>
     </Content>
-    <Content Include="readme.txt" />
     <Content Include="web.config" />
     <None Include="web.Release.config">
       <DependentUpon>web.config</DependentUpon>
