@@ -8,7 +8,7 @@ define(["require", "exports", "models/Todo"], function(require, exports, __Model
     });
     alert(task.get("content"));
     $(document).ready(function () {
-        alert("dom loaded");
+        alert("dom is loaded");
     });
 })
 

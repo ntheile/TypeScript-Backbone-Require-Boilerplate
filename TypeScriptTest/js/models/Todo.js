@@ -16,7 +16,7 @@ define(["require", "exports"], function(require, exports) {
             };
         };
         Todo.prototype.initialize = function () {
-            alert("Todo init'ed.");
+            alert("Todo init'd.");
         };
         return Todo;
     })(Backbone.Model);
