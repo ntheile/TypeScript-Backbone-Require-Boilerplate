@@ -14,7 +14,7 @@ export class Todo extends Backbone.Model  {
     };
 
     initialize() {
-        alert("Todo init'ed.");
+        alert("Todo init'd.");
     };
 
 };

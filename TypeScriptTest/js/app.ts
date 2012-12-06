@@ -24,5 +24,5 @@ alert(task.get("content"));
 
 //This simply shows that jQuery works. In Visual Studio you get intellisense since we referenced jquery.d.ts!!
 $(document).ready(function () {
-    alert("dom loaded");
+    alert("dom is loaded");
 });

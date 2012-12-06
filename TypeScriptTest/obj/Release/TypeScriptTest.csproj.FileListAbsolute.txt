@@ -3,3 +3,8 @@ D:\Websites\TypeScriptTest\TypeScriptTest\bin\TypeScriptTest.pdb
 D:\Websites\TypeScriptTest\TypeScriptTest\obj\Release\TypeScriptTest.dll
 D:\Websites\TypeScriptTest\TypeScriptTest\obj\Release\TypeScriptTest.pdb
 D:\Websites\TypeScriptTest\TypeScriptTest\obj\Release\TypeScriptTest.csprojResolveAssemblyReference.cache
+D:\Websites\TypeScript-Backbone-Require-Boilerplate\TypeScriptTest\obj\Release\TypeScriptTest.dll
+D:\Websites\TypeScript-Backbone-Require-Boilerplate\TypeScriptTest\obj\Release\TypeScriptTest.pdb
+D:\Websites\TypeScript-Backbone-Require-Boilerplate\TypeScriptTest\bin\TypeScriptTest.dll
+D:\Websites\TypeScript-Backbone-Require-Boilerplate\TypeScriptTest\bin\TypeScriptTest.pdb
+D:\Websites\TypeScript-Backbone-Require-Boilerplate\TypeScriptTest\obj\Release\TypeScriptTest.csprojResolveAssemblyReference.cache
